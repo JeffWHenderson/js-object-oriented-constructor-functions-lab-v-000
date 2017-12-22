@@ -1,4 +1,4 @@
-const Scooter = function(year, color, properties) {
+const Scooter = function(year, color, model) {
   this.year = year
   this.color = color
   this.model = model
