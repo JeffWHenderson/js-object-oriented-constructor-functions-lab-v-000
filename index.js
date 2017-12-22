@@ -1,4 +1,4 @@
-
+const Scooter = function() {}
 
 
 // Scooter with year, color, and model properties
